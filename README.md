@@ -1,4 +1,7 @@
 # odin-recipes
 First odin project project. 
 
-Practicing HTML knowledge by writing a basic recipe webpage.
+Demonstrate ability to:
+- use proper HTML format.
+- use variety of basic elements.
+- use github repositories.
